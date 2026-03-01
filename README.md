@@ -10,4 +10,4 @@ This repository contains coursework and projects for CIS 3902.
  2. <a href="https://github.com/callumhudson0/CIS-3902-AI-ML-Callum-Hudson/blob/main/Linear_Regression_Example_with_the_Housing_Data.ipynb">Linear Regression Example with Housing Data</a></br>
  3. <a href="https://github.com/callumhudson0/CIS-3902-AI-ML-Callum-Hudson/blob/main/bias_variance_overfitting_fertilizer_crop_yield_starter.ipynb">Bias, Variance, Overfitting Fertiliser Crop</a></br>
  4. <a href="https://github.com/callumhudson0/CIS-3902-AI-ML-Callum-Hudson/blob/main/regularization.ipynb">Regularization</a></br>
- 5. <a href="https://github.com/callumhudson0/CIS-3902-AI-ML-Callum-Hudson/blob/main/Elastic_Net_Simple_Complete.ipynb">Elastic Net Regression Lab</a></br>
+ 5. <a href="https://github.com/callumhudson0/CIS-3902-AI-ML-Callum-Hudson/blob/main/Elastic_Net_Simple.ipynb">Elastic Net Regression Lab</a></br>
