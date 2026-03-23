@@ -13,4 +13,5 @@ This repository contains coursework and projects for CIS 3902.
  5. <a href="https://github.com/callumhudson0/CIS-3902-AI-ML-Callum-Hudson/blob/main/Elastic_Net_Simple.ipynb">Elastic Net Regression Lab</a></br>
  6. <a href="https://github.com/callumhudson0/CIS-3902-AI-ML-Callum-Hudson/blob/main/Data_Cleaning_Exercise_Class.ipynb">Data Wrangling/Cleaning Exercise</a></br>
  7. <a href="https://github.com/callumhudson0/CIS-3902-AI-ML-Callum-Hudson/blob/main/Mushroom_Reduced_Student.ipynb">Mushroom Decision Tree (reduced features)</a></br>
+ 8. <a href="https://github.com/callumhudson0/CIS-3902-AI-ML-Callum-Hudson/blob/main/Autoviz_(3).ipynb">Data Exploration with AutoViz</a></br>
  
