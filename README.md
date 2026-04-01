@@ -15,3 +15,4 @@ This repository contains coursework and projects for CIS 3902.
  7. <a href="https://github.com/callumhudson0/CIS-3902-AI-ML-Callum-Hudson/blob/main/Mushroom_Reduced_Student.ipynb">Mushroom Decision Tree (reduced features)</a></br>
  8. <a href="https://github.com/callumhudson0/CIS-3902-AI-ML-Callum-Hudson/blob/main/Autoviz_(3).ipynb">Data Exploration with AutoViz</a></br>
  9. <a href="https://github.com/callumhudson0/CIS-3902-AI-ML-Callum-Hudson/blob/main/random_forest_crime_assignment_(1).ipynb">Random Forest Crime Assignment</a></br>
+ 10. <a href="https://github.com/callumhudson0/CIS-3902-AI-ML-Callum-Hudson/blob/main/cohens_kappa_ml_notebook_(1).ipynb">Cohen's Kappa</a></br>
