@@ -1,19 +1,69 @@
-# CIS 3902 – AI and Machine Learning
- 
-Name: Callum Hudson <br>
-Major: Computer Science / Mathematical Finance BS Double Majors <br>
-Semester: Spring 2026<br><br>
- 
-This repository contains coursework and projects for CIS 3902.
+# 🤖 CIS 3902 – Artificial Intelligence & Machine Learning
 
- 1. <a href="https://github.com/callumhudson0/CIS-3902-AI-ML-Callum-Hudson/blob/main/Reading_Files_in_Colab_with_Jupyter_Notebook.ipynb">Reading Files in Colab with Jupyter Notebook</a></br>
- 2. <a href="https://github.com/callumhudson0/CIS-3902-AI-ML-Callum-Hudson/blob/main/Linear_Regression_Example_with_the_Housing_Data.ipynb">Linear Regression Example with Housing Data</a></br>
- 3. <a href="https://github.com/callumhudson0/CIS-3902-AI-ML-Callum-Hudson/blob/main/bias_variance_overfitting_fertilizer_crop_yield_starter.ipynb">Bias, Variance, Overfitting Fertiliser Crop</a></br>
- 4. <a href="https://github.com/callumhudson0/CIS-3902-AI-ML-Callum-Hudson/blob/main/regularization.ipynb">Regularization</a></br>
- 5. <a href="https://github.com/callumhudson0/CIS-3902-AI-ML-Callum-Hudson/blob/main/Elastic_Net_Simple.ipynb">Elastic Net Regression Lab</a></br>
- 6. <a href="https://github.com/callumhudson0/CIS-3902-AI-ML-Callum-Hudson/blob/main/Data_Cleaning_Exercise_Class.ipynb">Data Wrangling/Cleaning Exercise</a></br>
- 7. <a href="https://github.com/callumhudson0/CIS-3902-AI-ML-Callum-Hudson/blob/main/Mushroom_Reduced_Student.ipynb">Mushroom Decision Tree (reduced features)</a></br>
- 8. <a href="https://github.com/callumhudson0/CIS-3902-AI-ML-Callum-Hudson/blob/main/Autoviz_(3).ipynb">Data Exploration with AutoViz</a></br>
- 9. <a href="https://github.com/callumhudson0/CIS-3902-AI-ML-Callum-Hudson/blob/main/random_forest_crime_assignment_(1).ipynb">Random Forest Crime Assignment</a></br>
- 10. <a href="https://github.com/callumhudson0/CIS-3902-AI-ML-Callum-Hudson/blob/main/cohens_kappa_ml_notebook_(1).ipynb">Cohen's Kappa</a></br>
- 11. <a href="https://github.com/callumhudson0/CIS-3902-AI-ML-Callum-Hudson/blob/main/Customer_Segmentation_Using_Clustering_Complete.ipynb">Unsupervised Learning with Clustering</a></br>
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-green?logo=scikit-learn&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
+---
+
+## 👤 Student Information
+
+| Field | Details |
+|---|---|
+| **Name** | Callum Hudson |
+| **Majors** | Computer Science & Mathematical Finance (B.S. Double Major) |
+| **Institution** | Catawba College |
+| **Course** | CIS 3902 – Artificial Intelligence & Machine Learning |
+| **Semester** | Spring 2026 |
+
+---
+
+## 📖 About This Repository
+
+This repository contains all coursework, labs, and projects completed for **CIS 3902 – AI and Machine Learning** at Catawba College. The notebooks cover a broad range of foundational and intermediate machine learning topics, implemented in Python using Google Colab and Jupyter Notebooks.
+
+Topics explored include supervised and unsupervised learning, regression techniques, decision trees, random forests, data wrangling, model evaluation, and clustering — providing a comprehensive foundation in modern data science and AI methodology.
+
+---
+
+## 📂 Notebook Index
+
+| # | Notebook | Topic Area |
+|---|---|---|
+| 1 | [Reading Files in Colab with Jupyter Notebook](https://github.com/callumhudson0/CIS-3902-AI-ML-Callum-Hudson/blob/main/Reading_Files_in_Colab_with_Jupyter_Notebook.ipynb) | Environment Setup |
+| 2 | [Linear Regression Example with Housing Data](https://github.com/callumhudson0/CIS-3902-AI-ML-Callum-Hudson/blob/main/Linear_Regression_Example_with_the_Housing_Data.ipynb) | Supervised Learning – Regression |
+| 3 | [Bias, Variance & Overfitting – Fertiliser Crop Yield](https://github.com/callumhudson0/CIS-3902-AI-ML-Callum-Hudson/blob/main/bias_variance_overfitting_fertilizer_crop_yield_starter.ipynb) | Model Evaluation |
+| 4 | [Regularization](https://github.com/callumhudson0/CIS-3902-AI-ML-Callum-Hudson/blob/main/regularization.ipynb) | Regression Techniques |
+| 5 | [Elastic Net Regression Lab](https://github.com/callumhudson0/CIS-3902-AI-ML-Callum-Hudson/blob/main/Elastic_Net_Simple.ipynb) | Regularized Regression |
+| 6 | [Data Wrangling & Cleaning Exercise](https://github.com/callumhudson0/CIS-3902-AI-ML-Callum-Hudson/blob/main/Data_Cleaning_Exercise_Class.ipynb) | Data Preprocessing |
+| 7 | [Mushroom Decision Tree (Reduced Features)](https://github.com/callumhudson0/CIS-3902-AI-ML-Callum-Hudson/blob/main/Mushroom_Reduced_Student.ipynb) | Supervised Learning – Classification |
+| 8 | [Data Exploration with AutoViz](https://github.com/callumhudson0/CIS-3902-AI-ML-Callum-Hudson/blob/main/Autoviz_(3).ipynb) | Exploratory Data Analysis |
+| 9 | [Random Forest Crime Assignment](https://github.com/callumhudson0/CIS-3902-AI-ML-Callum-Hudson/blob/main/random_forest_crime_assignment_(1).ipynb) | Ensemble Methods |
+| 10 | [Cohen's Kappa](https://github.com/callumhudson0/CIS-3902-AI-ML-Callum-Hudson/blob/main/cohens_kappa_ml_notebook_(1).ipynb) | Model Evaluation Metrics |
+| 11 | [Unsupervised Learning with Clustering](https://github.com/callumhudson0/CIS-3902-AI-ML-Callum-Hudson/blob/main/Customer_Segmentation_Using_Clustering_Complete.ipynb) | Unsupervised Learning – K-Means |
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **Language:** Python 3.x
+- **Environment:** Google Colab / Jupyter Notebook
+- **Key Libraries:** `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`, `AutoViz`
+- **Version Control:** Git & GitHub
+
+---
+
+## 🚀 Getting Started
+
+All notebooks in this repository are designed to run in **Google Colab** — no local setup required.
+
+1. Click any notebook link in the index above
+2. Select **"Open in Colab"** at the top of the GitHub preview
+3. Run cells sequentially using the **▶ play button** or `Shift + Enter`
+4. To save your work: `File → Download → .ipynb`
+5. To save as PDF: `File → Print`
+
+---
+
+*Catawba College · CIS 3902 · Spring 2026*
