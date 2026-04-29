@@ -1,4 +1,4 @@
-# 🤖 CIS 3902 – Artificial Intelligence & Machine Learning
+# CIS 3902 – Artificial Intelligence & Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
@@ -49,5 +49,4 @@ Topics explored include supervised and unsupervised learning, regression techniq
 - **Version Control:** Git & GitHub
 
 ---
-
 *Catawba College · CIS 3902 · Spring 2026*
