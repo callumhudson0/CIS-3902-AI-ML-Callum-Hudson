@@ -22,7 +22,7 @@ Topics explored include supervised and unsupervised learning, regression techniq
 
 ---
 
-## 📂 Notebook Index
+## Notebook Index
 
 | # | Notebook | Topic Area |
 |---|---|---|
@@ -39,8 +39,12 @@ Topics explored include supervised and unsupervised learning, regression techniq
 | 11 | [Unsupervised Learning with Clustering](https://github.com/callumhudson0/CIS-3902-AI-ML-Callum-Hudson/blob/main/Customer_Segmentation_Using_Clustering_Complete.ipynb) | Unsupervised Learning – K-Means |
 
 ---
+## FINAL PROJECT
 
-## 🛠️ Tools & Technologies
+**Final Project: Bexley Crime Interactive UI Hotspot Predictor** - click [HERE](https://github.com/callumhudson0/Thompson-Final-Project) to view.
+___
+
+## Tools & Technologies
 
 - **Language:** Python 3.x
 - **Environment:** Google Colab / Jupyter Notebook
