@@ -7,8 +7,6 @@
 
 ---
 
-## 👤 Student Information
-
 | Field | Details |
 |---|---|
 | **Name** | Callum Hudson |
@@ -18,8 +16,6 @@
 | **Semester** | Spring 2026 |
 
 ---
-
-## 📖 About This Repository
 
 This repository contains all coursework, labs, and projects completed for **CIS 3902 – AI and Machine Learning** at Catawba College. The notebooks cover a broad range of foundational and intermediate machine learning topics, implemented in Python using Google Colab and Jupyter Notebooks.
 
@@ -51,18 +47,6 @@ Topics explored include supervised and unsupervised learning, regression techniq
 - **Environment:** Google Colab / Jupyter Notebook
 - **Key Libraries:** `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`, `AutoViz`
 - **Version Control:** Git & GitHub
-
----
-
-## 🚀 Getting Started
-
-All notebooks in this repository are designed to run in **Google Colab** — no local setup required.
-
-1. Click any notebook link in the index above
-2. Select **"Open in Colab"** at the top of the GitHub preview
-3. Run cells sequentially using the **▶ play button** or `Shift + Enter`
-4. To save your work: `File → Download → .ipynb`
-5. To save as PDF: `File → Print`
 
 ---
 
